@@ -33,6 +33,7 @@ while True:
                     print("* ", end="")
                 print("\t", end="")
             print()
+    
     while True:
         action = input("Continue / Stop: ").lower()
         if action == "continue" or action == "stop":
